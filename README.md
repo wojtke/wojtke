@@ -1,16 +1,29 @@
-### Hi there 👋
+##### Hi, I’m Wojciech Jasiński,
+I'm a second-year Computer Science student at AGH UST in Cracow.
+Reach me at [woj.jasinski@gmail.com](mailto:woj.jasinski@gmail.com).
 
-<!--
-**wojtke/wojtke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Below are some of my projects:
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/wojtke/simple-evolution-simulation">
+        simple-evolution-simulation
+      </a>
+    </td>
+    <td>
+      some evolution yeah yeah
+    </td>
+  </tr>
+ <tr>
+    <td>
+      <a href="https://github.com/wojtke/music-video-automaker">
+        music-video-automaker
+      </a>
+    </td>
+    <td>
+      some video cutter yeah yeah
+    </td>
+  </tr>
+</table>
